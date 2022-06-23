@@ -22,10 +22,17 @@ https://www.fao.org/faostat/en/?#data/OA
 ## Data preparation....
 Python pandas.
 
-
-
 Data analysis...
 
+
+
 Data viz...
+![image](where)
+
+
+
+
+
+
 
 
