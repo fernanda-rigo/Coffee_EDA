@@ -27,7 +27,9 @@ Data analysis...
 
 
 Data viz...
-![image](where)
+https://public.tableau.com/views/Coffe_EDA_viz/Largestcoffeeproducers_1?:language=pt-BR&:display_count=n&:origin=viz_share_link
+
+![image](https://github.com/fernanda-rigo/Coffe_EDA/blob/0380fcb32348a49fd48b8266c20b44348990257a/Largest%20coffee%20producers.png)
 
 
 
