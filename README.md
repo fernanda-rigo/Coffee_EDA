@@ -19,20 +19,36 @@ https://www.fao.org/faostat/en/?#data/OA
 
 ### Trade
 
-
-
-## OBJECTIVES 
-
-1) Is the production of coffee related to rural population in each country?
-2) Who are the largests coffee producers during time? The pattern changes over time?
-3) Who are the biggest coffe importers?
-
+DATA
 
 ## Data preparation....
 pre viz
 https://public.tableau.com/views/Coffe_EDA_viz/Largestcoffeeproducers_1?:language=pt-BR&:display_count=n&:origin=viz_share_link
 
 ![image](https://github.com/fernanda-rigo/Coffe_EDA/blob/0380fcb32348a49fd48b8266c20b44348990257a/Largest%20coffee%20producers.png)
+
+KR1 = Is the production of coffee related to rural population in each country?
+
+
+## Part I - Coffe Production and rural_population.
+### OKR
+Objective 1
+KR1 = Who are the largests coffee producers during time? 
+KR2 = Is there any relation between rural proportions of total population and coffe_production? 
+  if not, maybe see age group distribution
+
+
+## Part II - Coffe Production and trade
+### OKR
+Objective 1
+KR1 =
+KR2 = Who are the biggest coffe importers? 
+KR4 = What type of coffe is most imported?.
+KR3 =
+
+
+
+
 
 
 
