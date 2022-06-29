@@ -16,17 +16,17 @@ The FAOSTAT Population module contains time series data on population, by sex an
 
 https://www.fao.org/faostat/en/?#data/OA
 
+
+## OBJECTIVES 
+1)  Is the production of coffee related to rural population in each country?
+2) Who are the largests coffee producers during the years? The pattern changes over time?
+
+
+
+
+
 ## Data preparation....
-Python pandas.
-
-
-
-
-Data analysis...
-
-
-
-Data viz...
+pre viz
 https://public.tableau.com/views/Coffe_EDA_viz/Largestcoffeeproducers_1?:language=pt-BR&:display_count=n&:origin=viz_share_link
 
 ![image](https://github.com/fernanda-rigo/Coffe_EDA/blob/0380fcb32348a49fd48b8266c20b44348990257a/Largest%20coffee%20producers.png)
