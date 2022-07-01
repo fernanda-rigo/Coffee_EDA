@@ -1,5 +1,4 @@
-# Exploratory data analysis within coffee production, rural population, and trades
-### Python practicing
+# Exploratory data analysis within coffee and rural population.
 ## DATA 
 
 Food and Agriculture Organization of the United Nations (FAO)
@@ -17,19 +16,17 @@ The FAOSTAT Population module contains time series data on population, by sex an
 
 https://www.fao.org/faostat/en/?#data/OA
 
-### Trade
-
-
-
-## OBJECTIVES 
-
-1) Is the production of coffee related to rural population in each country?
-2) Who are the largests coffee producers during time? The pattern changes over time?
-3) Who are the biggest coffe importers?
-
-
 ## Data preparation....
-pre viz
+Python pandas.
+
+
+
+
+Data analysis...
+
+
+
+Data viz...
 https://public.tableau.com/views/Coffe_EDA_viz/Largestcoffeeproducers_1?:language=pt-BR&:display_count=n&:origin=viz_share_link
 
 ![image](https://github.com/fernanda-rigo/Coffe_EDA/blob/0380fcb32348a49fd48b8266c20b44348990257a/Largest%20coffee%20producers.png)

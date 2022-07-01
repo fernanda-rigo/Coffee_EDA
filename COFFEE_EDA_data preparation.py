@@ -7,10 +7,10 @@ import pandas as pd
 # loading first dataset
 
 coffe_production_v1 = pd.read_csv('coffee_production_countries.csv')
-print('-------- coffee production original dataset -------')
-print(coffe_production_v1.info(10))
-print(coffe_production_v1.head(5))
-print('-------- preparing... -------')
+# print('-------- coffee production original dataset -------')
+# print(coffe_production_v1.info(10))
+# print(coffe_production_v1.head(5))
+# print('-------- preparing... -------')
 coffe_production = coffe_production_v1.drop(columns= ['Domain', 'Element', 'Item', 'Unit'])
 coffe_production = coffe_production.rename(columns={'Area': 'country', 'Value': 'coffee_production_tonnes'})
 print(coffe_production.info(10))
@@ -49,7 +49,7 @@ print(merged_pop_cp.head())
 # dropping NA values
 print('-------- dropping NA values -------')
 merged_pop_cp = merged_pop_cp.dropna()
-
 print('--------  SAVING CSV FILES -------')
+merged_pop_cp = merged_pop_cp['country'].replace('Democratic Republic of the Congo ','Congo DR')
 merged_pop_cp.to_csv('coffee_production_population.csv')
 
