@@ -21,7 +21,7 @@ https://public.tableau.com/views/Coffe_EDA_viz/Largestcoffeeproducers_1?:languag
 
 Objective: Investigate possible relation betweeen coffee production, rural population and trades.
 
-**KR1. Who are the largest coffee producers during ever?**
+**KR1. Who are the largest coffee producers ever?**
 
 top20
 ['Brazil', 'Colombia', 'Viet Nam', 'Indonesia', 'Mexico', 'Guatemala', 'India', 'Uganda', 'Peru', 'Honduras', 'Ethiopia', 'El Salvador', 'Costa Rica', 'Ethiopia PDR', 'Philippines', 'Cameroon', 'Ecuador', 'Madagascar', 'Kenya', 'Congo DR']
