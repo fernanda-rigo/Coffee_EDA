@@ -36,8 +36,16 @@ Attention is drawn to the oscilation in production for Brazil, Colombia, VietNam
 
 ![Fig2](Figure_2.png)
 
+** Sorting coffee production of Brazil, Colombia, VietNam and Indonesia over time **
 
 
+![Fig2](Figure_3.png)
+
+
+** KR3. How did the population of Brazil, Colombia, VietNam and Indonesia changed over time? **
+
+
+** KR5. What was the proportion of rural population in Brazil, Colombia, VietNam and Indonesia over time? **
 
 
 
